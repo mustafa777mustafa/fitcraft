@@ -1,0 +1,1549 @@
+[
+  {
+    "id": "wger-1",
+    "exerciseId": 512,
+    "uuid": "fff4c294-93f0-4926-b3a2-bf59ad4afaa5",
+    "name": "Rowing seated, narrow grip",
+    "category": "Back",
+    "primaryMuscle": "Lats",
+    "muscles": [
+      "Lats"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/512/fff4c294-93f0-4926-b3a2-bf59ad4afaa5.MOV",
+    "duration": "10.49",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-2",
+    "exerciseId": 507,
+    "uuid": "307e7276-a14d-4ea0-b579-f5b0dbc6f5af",
+    "name": "Romanian Deadlift",
+    "category": "Legs",
+    "primaryMuscle": "Hamstrings",
+    "muscles": [
+      "Hamstrings",
+      "Glutes"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/507/307e7276-a14d-4ea0-b579-f5b0dbc6f5af.MOV",
+    "duration": "13.00",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-3",
+    "exerciseId": 507,
+    "uuid": "6b6054b5-9236-4a63-8392-6ea7a9010ca6",
+    "name": "Romanian Deadlift",
+    "category": "Legs",
+    "primaryMuscle": "Hamstrings",
+    "muscles": [
+      "Hamstrings",
+      "Glutes"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/507/6b6054b5-9236-4a63-8392-6ea7a9010ca6.MOV",
+    "duration": "17.69",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-4",
+    "exerciseId": 507,
+    "uuid": "e96295da-58b8-4b6f-921e-4cb1af3c6cfc",
+    "name": "Romanian Deadlift",
+    "category": "Legs",
+    "primaryMuscle": "Hamstrings",
+    "muscles": [
+      "Hamstrings",
+      "Glutes"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/507/e96295da-58b8-4b6f-921e-4cb1af3c6cfc.MOV",
+    "duration": "29.50",
+    "width": 3840,
+    "height": 2160,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-5",
+    "exerciseId": 349,
+    "uuid": "9896d82e-d8b6-48af-bdd5-b8545dc523e9",
+    "name": "Lateral Rows on Cable, One Armed",
+    "category": "Shoulders",
+    "primaryMuscle": "Shoulders",
+    "muscles": [
+      "Shoulders"
+    ],
+    "equipment": [
+      "Cable machine"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/349/9896d82e-d8b6-48af-bdd5-b8545dc523e9.MOV",
+    "duration": "13.22",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-6",
+    "exerciseId": 348,
+    "uuid": "de69928a-8a35-4096-821c-1f46de5e0e03",
+    "name": "Lateral Raises",
+    "category": "Shoulders",
+    "primaryMuscle": "Shoulders",
+    "muscles": [
+      "Shoulders"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/348/de69928a-8a35-4096-821c-1f46de5e0e03.MOV",
+    "duration": "18.26",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-7",
+    "exerciseId": 82,
+    "uuid": "28b53647-27e7-47cf-8852-2ee666c8b628",
+    "name": "Bent-over Lateral Raises",
+    "category": "Shoulders",
+    "primaryMuscle": "All",
+    "muscles": [],
+    "equipment": [
+      "Bench",
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/82/28b53647-27e7-47cf-8852-2ee666c8b628.MOV",
+    "duration": "7.60",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-8",
+    "exerciseId": 82,
+    "uuid": "ebf1e6d2-df48-44b8-a791-97f77e801bf3",
+    "name": "Bent-over Lateral Raises",
+    "category": "Shoulders",
+    "primaryMuscle": "All",
+    "muscles": [],
+    "equipment": [
+      "Bench",
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/82/ebf1e6d2-df48-44b8-a791-97f77e801bf3.MOV",
+    "duration": "6.97",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-9",
+    "exerciseId": 82,
+    "uuid": "437d79db-ac8f-49e2-8780-0365f94ee01c",
+    "name": "Bent-over Lateral Raises",
+    "category": "Shoulders",
+    "primaryMuscle": "All",
+    "muscles": [],
+    "equipment": [
+      "Bench",
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/82/437d79db-ac8f-49e2-8780-0365f94ee01c.MOV",
+    "duration": "6.37",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-10",
+    "exerciseId": 82,
+    "uuid": "7cfe6d04-5e59-4d0b-937b-b8f4ee10602d",
+    "name": "Bent-over Lateral Raises",
+    "category": "Shoulders",
+    "primaryMuscle": "All",
+    "muscles": [],
+    "equipment": [
+      "Bench",
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/82/7cfe6d04-5e59-4d0b-937b-b8f4ee10602d.MOV",
+    "duration": "9.80",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-11",
+    "exerciseId": 543,
+    "uuid": "dbfd396b-1aab-4a64-a50b-2c31ff0a2cf7",
+    "name": "Shoulder Press, on Machine",
+    "category": "Shoulders",
+    "primaryMuscle": "Shoulders",
+    "muscles": [
+      "Shoulders"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/543/dbfd396b-1aab-4a64-a50b-2c31ff0a2cf7.MOV",
+    "duration": "12.27",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-12",
+    "exerciseId": 567,
+    "uuid": "64f33c19-1d96-4b7c-af17-6c6a4941c614",
+    "name": "Shoulder Press, Dumbbells",
+    "category": "Shoulders",
+    "primaryMuscle": "Shoulders",
+    "muscles": [
+      "Shoulders"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/567/64f33c19-1d96-4b7c-af17-6c6a4941c614.MOV",
+    "duration": "23.13",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-13",
+    "exerciseId": 590,
+    "uuid": "a325ae2e-686b-4a1f-aff2-ba37fa3fa157",
+    "name": "Sitting Calf Raises",
+    "category": "Calves",
+    "primaryMuscle": "Soleus",
+    "muscles": [
+      "Soleus"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/590/a325ae2e-686b-4a1f-aff2-ba37fa3fa157.MOV",
+    "duration": "20.71",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-14",
+    "exerciseId": 622,
+    "uuid": "35b7b625-77fd-4c09-8c57-3ad0f2f23175",
+    "name": "Standing Calf Raises",
+    "category": "Calves",
+    "primaryMuscle": "Calves",
+    "muscles": [
+      "Calves"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/622/35b7b625-77fd-4c09-8c57-3ad0f2f23175.MOV",
+    "duration": "16.79",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-15",
+    "exerciseId": 622,
+    "uuid": "461171e5-2b16-407d-bf27-27aeef43f105",
+    "name": "Standing Calf Raises",
+    "category": "Calves",
+    "primaryMuscle": "Calves",
+    "muscles": [
+      "Calves"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/622/461171e5-2b16-407d-bf27-27aeef43f105.MOV",
+    "duration": "16.43",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-16",
+    "exerciseId": 538,
+    "uuid": "4349a6f6-4cee-4c09-828b-c5e7fc2c1ff1",
+    "name": "Incline Bench Press - Barbell",
+    "category": "Chest",
+    "primaryMuscle": "Chest",
+    "muscles": [
+      "Chest"
+    ],
+    "equipment": [
+      "Barbell",
+      "Incline bench"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/538/4349a6f6-4cee-4c09-828b-c5e7fc2c1ff1.MOV",
+    "duration": "19.92",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-17",
+    "exerciseId": 75,
+    "uuid": "080c799b-8afd-4130-8d72-9cef0cd79f54",
+    "name": "Benchpress Dumbbells",
+    "category": "Chest",
+    "primaryMuscle": "Chest",
+    "muscles": [
+      "Chest"
+    ],
+    "equipment": [
+      "Bench",
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/75/080c799b-8afd-4130-8d72-9cef0cd79f54.MOV",
+    "duration": "14.16",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-18",
+    "exerciseId": 75,
+    "uuid": "a8263fe5-3015-41e3-9781-2d255adcea63",
+    "name": "Benchpress Dumbbells",
+    "category": "Chest",
+    "primaryMuscle": "Chest",
+    "muscles": [
+      "Chest"
+    ],
+    "equipment": [
+      "Bench",
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/75/a8263fe5-3015-41e3-9781-2d255adcea63.MOV",
+    "duration": "30.09",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-19",
+    "exerciseId": 75,
+    "uuid": "9d803f97-0a48-4483-8f1c-ee5b19d6021e",
+    "name": "Benchpress Dumbbells",
+    "category": "Chest",
+    "primaryMuscle": "Chest",
+    "muscles": [
+      "Chest"
+    ],
+    "equipment": [
+      "Bench",
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/75/9d803f97-0a48-4483-8f1c-ee5b19d6021e.MOV",
+    "duration": "28.26",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-20",
+    "exerciseId": 75,
+    "uuid": "c9cbd391-1e22-4014-8794-04630c80665f",
+    "name": "Benchpress Dumbbells",
+    "category": "Chest",
+    "primaryMuscle": "Chest",
+    "muscles": [
+      "Chest"
+    ],
+    "equipment": [
+      "Bench",
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/75/c9cbd391-1e22-4014-8794-04630c80665f.MOV",
+    "duration": "11.28",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-21",
+    "exerciseId": 73,
+    "uuid": "2bdb390c-312c-4497-a722-5eed2c823e5a",
+    "name": "Bench Press",
+    "category": "Chest",
+    "primaryMuscle": "Chest",
+    "muscles": [
+      "Chest"
+    ],
+    "equipment": [
+      "Barbell",
+      "Bench"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/73/2bdb390c-312c-4497-a722-5eed2c823e5a.MOV",
+    "duration": "15.93",
+    "width": 640,
+    "height": 352,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-22",
+    "exerciseId": 73,
+    "uuid": "255b3509-e454-48a6-bf66-c7ca482be21a",
+    "name": "Bench Press",
+    "category": "Chest",
+    "primaryMuscle": "Chest",
+    "muscles": [
+      "Chest"
+    ],
+    "equipment": [
+      "Barbell",
+      "Bench"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/73/255b3509-e454-48a6-bf66-c7ca482be21a.MOV",
+    "duration": "20.78",
+    "width": 640,
+    "height": 352,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-23",
+    "exerciseId": 73,
+    "uuid": "cfb72002-898f-443a-a124-a0bce8a2e6ad",
+    "name": "Bench Press",
+    "category": "Chest",
+    "primaryMuscle": "Chest",
+    "muscles": [
+      "Chest"
+    ],
+    "equipment": [
+      "Barbell",
+      "Bench"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/73/cfb72002-898f-443a-a124-a0bce8a2e6ad.MP4",
+    "duration": "21.04",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-24",
+    "exerciseId": 537,
+    "uuid": "b9c937e9-daeb-42a9-be8e-7a77e368478c",
+    "name": "Incline Bench Press - Dumbbell",
+    "category": "Chest",
+    "primaryMuscle": "Chest",
+    "muscles": [
+      "Chest"
+    ],
+    "equipment": [
+      "Dumbbell",
+      "Incline bench"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/537/b9c937e9-daeb-42a9-be8e-7a77e368478c.MOV",
+    "duration": "27.49",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-25",
+    "exerciseId": 257,
+    "uuid": "ad8ac7d9-b04d-415f-ae0e-837942ce2840",
+    "name": "Front Squats",
+    "category": "Legs",
+    "primaryMuscle": "Glutes",
+    "muscles": [
+      "Glutes"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/257/ad8ac7d9-b04d-415f-ae0e-837942ce2840.MOV",
+    "duration": "19.36",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-26",
+    "exerciseId": 257,
+    "uuid": "f8f01bf8-0908-4915-a8f5-cc7bcfefff8c",
+    "name": "Front Squats",
+    "category": "Legs",
+    "primaryMuscle": "Glutes",
+    "muscles": [
+      "Glutes"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/257/f8f01bf8-0908-4915-a8f5-cc7bcfefff8c.MOV",
+    "duration": "17.04",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-27",
+    "exerciseId": 257,
+    "uuid": "93145935-29db-4e52-9d2d-174b1c30c098",
+    "name": "Front Squats",
+    "category": "Legs",
+    "primaryMuscle": "Glutes",
+    "muscles": [
+      "Glutes"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/257/93145935-29db-4e52-9d2d-174b1c30c098.MOV",
+    "duration": "8.25",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-28",
+    "exerciseId": 257,
+    "uuid": "520b98d4-c767-47dd-83e6-850189217925",
+    "name": "Front Squats",
+    "category": "Legs",
+    "primaryMuscle": "Glutes",
+    "muscles": [
+      "Glutes"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/257/520b98d4-c767-47dd-83e6-850189217925.MOV",
+    "duration": "16.09",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-29",
+    "exerciseId": 46,
+    "uuid": "200d9889-322f-476a-a47b-f15a1a97934a",
+    "name": "Barbell Lunges Standing",
+    "category": "Legs",
+    "primaryMuscle": "Quads",
+    "muscles": [
+      "Quads"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/46/200d9889-322f-476a-a47b-f15a1a97934a.MOV",
+    "duration": "12.99",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-30",
+    "exerciseId": 46,
+    "uuid": "d45df7af-586b-42d0-bc56-d1e028812f12",
+    "name": "Barbell Lunges Standing",
+    "category": "Legs",
+    "primaryMuscle": "Quads",
+    "muscles": [
+      "Quads"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/46/d45df7af-586b-42d0-bc56-d1e028812f12.MOV",
+    "duration": "8.09",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-31",
+    "exerciseId": 205,
+    "uuid": "c167ac34-ddbc-4e1b-8edf-1192e9d00e22",
+    "name": "Dumbbell Lunges Standing",
+    "category": "Legs",
+    "primaryMuscle": "Quads",
+    "muscles": [
+      "Quads"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/205/c167ac34-ddbc-4e1b-8edf-1192e9d00e22.MOV",
+    "duration": "17.09",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-32",
+    "exerciseId": 205,
+    "uuid": "4cd5dc48-897f-4e0c-8c5a-639a4098ceb1",
+    "name": "Dumbbell Lunges Standing",
+    "category": "Legs",
+    "primaryMuscle": "Quads",
+    "muscles": [
+      "Quads"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/205/4cd5dc48-897f-4e0c-8c5a-639a4098ceb1.MOV",
+    "duration": "17.94",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-33",
+    "exerciseId": 206,
+    "uuid": "47a65c45-6fd1-4181-b71a-3a6c882e516b",
+    "name": "Dumbbell Lunges Walking",
+    "category": "Legs",
+    "primaryMuscle": "Quads",
+    "muscles": [
+      "Quads"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/206/47a65c45-6fd1-4181-b71a-3a6c882e516b.MOV",
+    "duration": "14.31",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-34",
+    "exerciseId": 802,
+    "uuid": "85d1d7f8-c3c5-47e8-9b26-56896919e6e7",
+    "name": "Barbell Lunges Walking",
+    "category": "Legs",
+    "primaryMuscle": "Glutes",
+    "muscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/802/85d1d7f8-c3c5-47e8-9b26-56896919e6e7.MOV",
+    "duration": "12.72",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-35",
+    "exerciseId": 365,
+    "uuid": "becaf013-5044-40d0-bae9-7ed60c973737",
+    "name": "Leg Curls (laying)",
+    "category": "Legs",
+    "primaryMuscle": "Hamstrings",
+    "muscles": [
+      "Hamstrings"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/365/becaf013-5044-40d0-bae9-7ed60c973737.MOV",
+    "duration": "15.06",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-36",
+    "exerciseId": 365,
+    "uuid": "1106bd7a-72cd-45b5-853f-5c9912b936ef",
+    "name": "Leg Curls (laying)",
+    "category": "Legs",
+    "primaryMuscle": "Hamstrings",
+    "muscles": [
+      "Hamstrings"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/365/1106bd7a-72cd-45b5-853f-5c9912b936ef.MOV",
+    "duration": "23.53",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-37",
+    "exerciseId": 366,
+    "uuid": "43df4b79-d4c3-4fbf-bcb5-e0d825b84120",
+    "name": "Leg Curls (sitting)",
+    "category": "Legs",
+    "primaryMuscle": "Hamstrings",
+    "muscles": [
+      "Hamstrings"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/366/43df4b79-d4c3-4fbf-bcb5-e0d825b84120.MOV",
+    "duration": "24.89",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-38",
+    "exerciseId": 367,
+    "uuid": "6c24960c-20ab-4ef9-90f8-cf53e630ccec",
+    "name": "Leg Curls (standing)",
+    "category": "Legs",
+    "primaryMuscle": "Hamstrings",
+    "muscles": [
+      "Hamstrings"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/367/6c24960c-20ab-4ef9-90f8-cf53e630ccec.MOV",
+    "duration": "20.23",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-39",
+    "exerciseId": 367,
+    "uuid": "e8113ae4-a0b4-42a2-8eaa-3263de64622e",
+    "name": "Leg Curls (standing)",
+    "category": "Legs",
+    "primaryMuscle": "Hamstrings",
+    "muscles": [
+      "Hamstrings"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/367/e8113ae4-a0b4-42a2-8eaa-3263de64622e.MOV",
+    "duration": "14.89",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-40",
+    "exerciseId": 375,
+    "uuid": "effa7a81-dbdd-4014-83ee-ddf0fd835301",
+    "name": "Leg Press on Hackenschmidt Machine",
+    "category": "Legs",
+    "primaryMuscle": "Quads",
+    "muscles": [
+      "Quads"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/375/effa7a81-dbdd-4014-83ee-ddf0fd835301.MOV",
+    "duration": "32.11",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-41",
+    "exerciseId": 375,
+    "uuid": "d08a943d-c765-42b5-9ece-b80d90f2aefe",
+    "name": "Leg Press on Hackenschmidt Machine",
+    "category": "Legs",
+    "primaryMuscle": "Quads",
+    "muscles": [
+      "Quads"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/375/d08a943d-c765-42b5-9ece-b80d90f2aefe.MOV",
+    "duration": "32.41",
+    "width": 3840,
+    "height": 2160,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-42",
+    "exerciseId": 341,
+    "uuid": "0cbfeace-dda9-4166-8424-f51358e88a4f",
+    "name": "Squats on Multipress",
+    "category": "Legs",
+    "primaryMuscle": "Quads",
+    "muscles": [
+      "Quads"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/341/0cbfeace-dda9-4166-8424-f51358e88a4f.MOV",
+    "duration": "11.96",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-43",
+    "exerciseId": 374,
+    "uuid": "5336822a-7803-45b3-a880-f2bbf37a28f2",
+    "name": "Leg Presses (wide)",
+    "category": "Legs",
+    "primaryMuscle": "Quads",
+    "muscles": [
+      "Quads"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/374/5336822a-7803-45b3-a880-f2bbf37a28f2.MOV",
+    "duration": "21.51",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-44",
+    "exerciseId": 371,
+    "uuid": "6aae16b4-01b9-4eb4-935c-3250f84d2c59",
+    "name": "Leg Press",
+    "category": "Legs",
+    "primaryMuscle": "Hamstrings",
+    "muscles": [
+      "Hamstrings",
+      "Calves",
+      "Glutes",
+      "Quads"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/371/6aae16b4-01b9-4eb4-935c-3250f84d2c59.MOV",
+    "duration": "34.69",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-45",
+    "exerciseId": 371,
+    "uuid": "32601896-b84a-49bf-ae8a-b27a8f57ab21",
+    "name": "Leg Press",
+    "category": "Legs",
+    "primaryMuscle": "Hamstrings",
+    "muscles": [
+      "Hamstrings",
+      "Calves",
+      "Glutes",
+      "Quads"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/371/32601896-b84a-49bf-ae8a-b27a8f57ab21.MOV",
+    "duration": "26.36",
+    "width": 3840,
+    "height": 2160,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-46",
+    "exerciseId": 371,
+    "uuid": "db382bd9-f633-47cd-8b02-c52db835e41d",
+    "name": "Leg Press",
+    "category": "Legs",
+    "primaryMuscle": "Hamstrings",
+    "muscles": [
+      "Hamstrings",
+      "Calves",
+      "Glutes",
+      "Quads"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/371/db382bd9-f633-47cd-8b02-c52db835e41d.MOV",
+    "duration": "17.64",
+    "width": 3840,
+    "height": 2160,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-47",
+    "exerciseId": 275,
+    "uuid": "af1fff93-eb58-4ba7-97a4-b38ee67853b4",
+    "name": "Hammercurls on Cable",
+    "category": "Arms",
+    "primaryMuscle": "Biceps",
+    "muscles": [
+      "Biceps"
+    ],
+    "equipment": [
+      "Cable machine"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/275/af1fff93-eb58-4ba7-97a4-b38ee67853b4.MOV",
+    "duration": "11.85",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-48",
+    "exerciseId": 92,
+    "uuid": "8bfb917c-3d0d-49b9-8073-5d7e01c1b894",
+    "name": "Biceps Curls With Dumbbell",
+    "category": "Arms",
+    "primaryMuscle": "Biceps",
+    "muscles": [
+      "Biceps"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/92/8bfb917c-3d0d-49b9-8073-5d7e01c1b894.MOV",
+    "duration": "10.94",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-49",
+    "exerciseId": 91,
+    "uuid": "483f4bff-e108-41f1-8e7b-0caf24952552",
+    "name": "Biceps Curls With Barbell",
+    "category": "Arms",
+    "primaryMuscle": "Biceps",
+    "muscles": [
+      "Biceps"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/91/483f4bff-e108-41f1-8e7b-0caf24952552.MOV",
+    "duration": "12.34",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-50",
+    "exerciseId": 95,
+    "uuid": "ab770931-47d3-44fd-aef0-ac7a64c3b794",
+    "name": "Biceps Curl With Cable",
+    "category": "Arms",
+    "primaryMuscle": "Biceps",
+    "muscles": [
+      "Biceps"
+    ],
+    "equipment": [
+      "Cable machine"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/95/ab770931-47d3-44fd-aef0-ac7a64c3b794.MOV",
+    "duration": "10.45",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-51",
+    "exerciseId": 272,
+    "uuid": "df069052-2173-4f24-855f-a0eebe729f24",
+    "name": "Hammer Curls",
+    "category": "Arms",
+    "primaryMuscle": "Biceps",
+    "muscles": [
+      "Biceps"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/272/df069052-2173-4f24-855f-a0eebe729f24.MOV",
+    "duration": "10.37",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-52",
+    "exerciseId": 584,
+    "uuid": "109e8d5d-62a4-40ad-8813-2ccef5bc751f",
+    "name": "Single-arm Preacher Curl",
+    "category": "Arms",
+    "primaryMuscle": "Biceps",
+    "muscles": [
+      "Biceps"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/584/109e8d5d-62a4-40ad-8813-2ccef5bc751f.MOV",
+    "duration": "13.02",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-53",
+    "exerciseId": 465,
+    "uuid": "b64ca95b-c677-4f3b-bb50-f75edc81aa74",
+    "name": "Preacher Curls",
+    "category": "Arms",
+    "primaryMuscle": "Brachialis",
+    "muscles": [
+      "Brachialis"
+    ],
+    "equipment": [
+      "SZ-Bar"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/465/b64ca95b-c677-4f3b-bb50-f75edc81aa74.MOV",
+    "duration": "25.78",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-54",
+    "exerciseId": 465,
+    "uuid": "5d2339a4-815f-46ba-aa19-8a763cfdeba0",
+    "name": "Preacher Curls",
+    "category": "Arms",
+    "primaryMuscle": "Brachialis",
+    "muscles": [
+      "Brachialis"
+    ],
+    "equipment": [
+      "SZ-Bar"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/465/5d2339a4-815f-46ba-aa19-8a763cfdeba0.MOV",
+    "duration": "14.32",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-55",
+    "exerciseId": 659,
+    "uuid": "1f2eb3b6-3185-429f-8330-26dc88f39aff",
+    "name": "Triceps Extensions on Cable",
+    "category": "Arms",
+    "primaryMuscle": "Triceps",
+    "muscles": [
+      "Triceps"
+    ],
+    "equipment": [
+      "Cable machine"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/659/1f2eb3b6-3185-429f-8330-26dc88f39aff.MOV",
+    "duration": "15.09",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-56",
+    "exerciseId": 659,
+    "uuid": "be0b1bec-7d82-4a1d-85d6-84efa633ef3c",
+    "name": "Triceps Extensions on Cable",
+    "category": "Arms",
+    "primaryMuscle": "Triceps",
+    "muscles": [
+      "Triceps"
+    ],
+    "equipment": [
+      "Cable machine"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/659/be0b1bec-7d82-4a1d-85d6-84efa633ef3c.MOV",
+    "duration": "17.37",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-57",
+    "exerciseId": 211,
+    "uuid": "85f6eb25-a76c-409e-9af9-497794ac0dfb",
+    "name": "Dumbbell Triceps Extension",
+    "category": "Arms",
+    "primaryMuscle": "Triceps",
+    "muscles": [
+      "Triceps"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/211/85f6eb25-a76c-409e-9af9-497794ac0dfb.MOV",
+    "duration": "32.02",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-58",
+    "exerciseId": 803,
+    "uuid": "99e0001f-217a-4b11-823c-014d24a5415e",
+    "name": "One Arm Triceps Extensions on Cable",
+    "category": "Arms",
+    "primaryMuscle": "Triceps",
+    "muscles": [
+      "Triceps"
+    ],
+    "equipment": [
+      "Cable machine"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/803/99e0001f-217a-4b11-823c-014d24a5415e.MOV",
+    "duration": "9.36",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-59",
+    "exerciseId": 803,
+    "uuid": "589d24e5-aaee-455d-93fd-f0f01da5d9c6",
+    "name": "One Arm Triceps Extensions on Cable",
+    "category": "Arms",
+    "primaryMuscle": "Triceps",
+    "muscles": [
+      "Triceps"
+    ],
+    "equipment": [
+      "Cable machine"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/803/589d24e5-aaee-455d-93fd-f0f01da5d9c6.MOV",
+    "duration": "12.28",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-60",
+    "exerciseId": 245,
+    "uuid": "c253303e-9160-4f1f-b4fe-daf1e6c8661d",
+    "name": "Skullcrusher Dumbbells",
+    "category": "Arms",
+    "primaryMuscle": "Triceps",
+    "muscles": [
+      "Triceps"
+    ],
+    "equipment": [
+      "Bench",
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/245/c253303e-9160-4f1f-b4fe-daf1e6c8661d.MOV",
+    "duration": "18.72",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-61",
+    "exerciseId": 246,
+    "uuid": "75eb8c88-922e-45c5-8be3-ac073f62b63f",
+    "name": "Skullcrusher SZ-bar",
+    "category": "Arms",
+    "primaryMuscle": "Triceps",
+    "muscles": [
+      "Triceps"
+    ],
+    "equipment": [
+      "Bench",
+      "SZ-Bar"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/246/75eb8c88-922e-45c5-8be3-ac073f62b63f.MP4",
+    "duration": "15.23",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-62",
+    "exerciseId": 246,
+    "uuid": "40ca562f-b46b-45c8-81fa-1ea8d544b1b8",
+    "name": "Skullcrusher SZ-bar",
+    "category": "Arms",
+    "primaryMuscle": "Triceps",
+    "muscles": [
+      "Triceps"
+    ],
+    "equipment": [
+      "Bench",
+      "SZ-Bar"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/246/40ca562f-b46b-45c8-81fa-1ea8d544b1b8.MOV",
+    "duration": "18.13",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-63",
+    "exerciseId": 246,
+    "uuid": "2a194d11-ff5d-4bdf-849e-1c441cf7b0b1",
+    "name": "Skullcrusher SZ-bar",
+    "category": "Arms",
+    "primaryMuscle": "Triceps",
+    "muscles": [
+      "Triceps"
+    ],
+    "equipment": [
+      "Bench",
+      "SZ-Bar"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/246/2a194d11-ff5d-4bdf-849e-1c441cf7b0b1.MOV",
+    "duration": "10.91",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-64",
+    "exerciseId": 194,
+    "uuid": "d039ec90-474d-47a9-a3ad-bf0b00828c82",
+    "name": "Dips",
+    "category": "Chest",
+    "primaryMuscle": "Chest",
+    "muscles": [
+      "Chest",
+      "Triceps"
+    ],
+    "equipment": [
+      "none (bodyweight exercise)"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/194/d039ec90-474d-47a9-a3ad-bf0b00828c82.MP4",
+    "duration": "12.75",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-65",
+    "exerciseId": 194,
+    "uuid": "7a6987aa-138d-41e4-8842-5c3e3d970bd9",
+    "name": "Dips",
+    "category": "Chest",
+    "primaryMuscle": "Chest",
+    "muscles": [
+      "Chest",
+      "Triceps"
+    ],
+    "equipment": [
+      "none (bodyweight exercise)"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/194/7a6987aa-138d-41e4-8842-5c3e3d970bd9.MOV",
+    "duration": "16.37",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-66",
+    "exerciseId": 194,
+    "uuid": "dd9a663f-d8ba-4621-823b-13788ccb66bc",
+    "name": "Dips",
+    "category": "Chest",
+    "primaryMuscle": "Chest",
+    "muscles": [
+      "Chest",
+      "Triceps"
+    ],
+    "equipment": [
+      "none (bodyweight exercise)"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/194/dd9a663f-d8ba-4621-823b-13788ccb66bc.MOV",
+    "duration": "10.17",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-68",
+    "exerciseId": 575,
+    "uuid": "a7d99f2b-86fc-433a-8ab1-83144c802296",
+    "name": "Shrugs on Multipress",
+    "category": "Shoulders",
+    "primaryMuscle": "Shoulders",
+    "muscles": [
+      "Shoulders"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/575/a7d99f2b-86fc-433a-8ab1-83144c802296.MOV",
+    "duration": "11.01",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-69",
+    "exerciseId": 570,
+    "uuid": "bd1f14a3-9d2b-4ec0-b6b9-e82d739f7e60",
+    "name": "Shoulder Shrug",
+    "category": "Shoulders",
+    "primaryMuscle": "Trapezius",
+    "muscles": [
+      "Trapezius"
+    ],
+    "equipment": [
+      "none (bodyweight exercise)"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/570/bd1f14a3-9d2b-4ec0-b6b9-e82d739f7e60.MOV",
+    "duration": "10.74",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-70",
+    "exerciseId": 477,
+    "uuid": "2e23bb52-2782-40c8-bf88-fa2d2e2a9a0d",
+    "name": "Pull Ups on Machine",
+    "category": "Back",
+    "primaryMuscle": "Lats",
+    "muscles": [
+      "Lats"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/477/2e23bb52-2782-40c8-bf88-fa2d2e2a9a0d.MOV",
+    "duration": "18.77",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-71",
+    "exerciseId": 475,
+    "uuid": "83067ffe-ccb9-4e22-8507-5131b211ce74",
+    "name": "Pull-ups",
+    "category": "Back",
+    "primaryMuscle": "Lats",
+    "muscles": [
+      "Lats"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/475/83067ffe-ccb9-4e22-8507-5131b211ce74.MOV",
+    "duration": "18.77",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-72",
+    "exerciseId": 294,
+    "uuid": "45bacf4b-1bb6-4d47-8bd1-9f00eddd4019",
+    "name": "Hip Thrust",
+    "category": "Legs",
+    "primaryMuscle": "Glutes",
+    "muscles": [
+      "Glutes"
+    ],
+    "equipment": [
+      "Barbell",
+      "Bench"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/294/45bacf4b-1bb6-4d47-8bd1-9f00eddd4019.MOV",
+    "duration": "30.19",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-73",
+    "exerciseId": 294,
+    "uuid": "7d6862eb-8848-4f5d-a288-764b0d113108",
+    "name": "Hip Thrust",
+    "category": "Legs",
+    "primaryMuscle": "Glutes",
+    "muscles": [
+      "Glutes"
+    ],
+    "equipment": [
+      "Barbell",
+      "Bench"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/294/7d6862eb-8848-4f5d-a288-764b0d113108.MOV",
+    "duration": "26.13",
+    "width": 3840,
+    "height": 2160,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-74",
+    "exerciseId": 12,
+    "uuid": "5148c579-5df2-4618-9a7b-a2e29ac4dd7d",
+    "name": "Seated Hip Adduction",
+    "category": "Legs",
+    "primaryMuscle": "Glutes",
+    "muscles": [
+      "Glutes"
+    ],
+    "equipment": [],
+    "videoUrl": "https://wger.de/media/exercise-video/12/5148c579-5df2-4618-9a7b-a2e29ac4dd7d.MOV",
+    "duration": "20.86",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-75",
+    "exerciseId": 655,
+    "uuid": "69e8c1e5-55b2-4da6-8166-092c24b16735",
+    "name": "Tricep Dumbbell Kickback",
+    "category": "Arms",
+    "primaryMuscle": "Triceps",
+    "muscles": [
+      "Triceps"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/655/69e8c1e5-55b2-4da6-8166-092c24b16735.MOV",
+    "duration": "12.19",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-76",
+    "exerciseId": 655,
+    "uuid": "2d88a05b-bde3-4026-bfbf-524c11068dc5",
+    "name": "Tricep Dumbbell Kickback",
+    "category": "Arms",
+    "primaryMuscle": "Triceps",
+    "muscles": [
+      "Triceps"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/655/2d88a05b-bde3-4026-bfbf-524c11068dc5.MOV",
+    "duration": "10.26",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-77",
+    "exerciseId": 655,
+    "uuid": "f1354a78-539c-4f22-a78f-b1f43f920740",
+    "name": "Tricep Dumbbell Kickback",
+    "category": "Arms",
+    "primaryMuscle": "Triceps",
+    "muscles": [
+      "Triceps"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/655/f1354a78-539c-4f22-a78f-b1f43f920740.MOV",
+    "duration": "13.19",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-78",
+    "exerciseId": 222,
+    "uuid": "245a824b-cd39-45f2-b251-2c0b7efead0d",
+    "name": "Facepull",
+    "category": "Shoulders",
+    "primaryMuscle": "Trapezius",
+    "muscles": [
+      "Trapezius"
+    ],
+    "equipment": [
+      "Cable machine"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/222/245a824b-cd39-45f2-b251-2c0b7efead0d.MOV",
+    "duration": "8.70",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  },
+  {
+    "id": "wger-79",
+    "exerciseId": 222,
+    "uuid": "eea93fcc-6a3c-4783-8f70-0234c791a001",
+    "name": "Facepull",
+    "category": "Shoulders",
+    "primaryMuscle": "Trapezius",
+    "muscles": [
+      "Trapezius"
+    ],
+    "equipment": [
+      "Cable machine"
+    ],
+    "videoUrl": "https://wger.de/media/exercise-video/222/eea93fcc-6a3c-4783-8f70-0234c791a001.MOV",
+    "duration": "8.57",
+    "width": 1920,
+    "height": 1080,
+    "codec": "hevc",
+    "license": "Creative Commons"
+  }
+]

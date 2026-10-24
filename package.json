@@ -1,0 +1,21 @@
+{
+  "name": "fitcraft-gym-hub",
+  "version": "1.0.0",
+  "description": "FitCraft - موسوعة التمارين الرياضية ومولد البرامج الذكي والملتي جيم مع دعم PWA و Vercel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "node -e \"console.log('Build completed successfully for Vercel Static deployment')\""
+  },
+  "keywords": [
+    "fitness",
+    "workout",
+    "gym",
+    "multigym",
+    "pwa",
+    "vercel"
+  ],
+  "author": "Mustafa",
+  "license": "MIT"
+}

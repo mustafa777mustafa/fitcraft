@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#18181b"/>
+      <stop offset="100%" stop-color="#09090b"/>
+    </linearGradient>
+    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- App Icon Background -->
+  <rect width="512" height="512" rx="128" fill="url(#bgGrad)"/>
+  <rect width="504" height="504" x="4" y="4" rx="124" fill="none" stroke="#27272a" stroke-width="4"/>
+  <circle cx="256" cy="256" r="190" fill="#10b981" fill-opacity="0.06"/>
+  <circle cx="256" cy="256" r="150" fill="none" stroke="#10b981" stroke-width="2" stroke-dasharray="10 10" stroke-opacity="0.3"/>
+
+  <!-- Stylized Dumbbell / Fitness Craft Emblem -->
+  <g filter="url(#neonGlow)">
+    <!-- Central Handle -->
+    <rect x="196" y="240" width="120" height="32" rx="16" fill="url(#neonGrad)"/>
+    <rect x="236" y="236" width="40" height="40" rx="8" fill="#10b981" fill-opacity="0.8"/>
+    
+    <!-- Left Inner Weight Plate -->
+    <rect x="160" y="196" width="36" height="120" rx="12" fill="#e4e4e7"/>
+    <!-- Left Outer Weight Plate -->
+    <rect x="124" y="216" width="36" height="80" rx="10" fill="#a1a1aa"/>
+    <!-- Left End Nut -->
+    <rect x="106" y="244" width="18" height="24" rx="6" fill="#71717a"/>
+
+    <!-- Right Inner Weight Plate -->
+    <rect x="316" y="196" width="36" height="120" rx="12" fill="#e4e4e7"/>
+    <!-- Right Outer Weight Plate -->
+    <rect x="352" y="216" width="36" height="80" rx="10" fill="#a1a1aa"/>
+    <!-- Right End Nut -->
+    <rect x="388" y="244" width="18" height="24" rx="6" fill="#71717a"/>
+
+    <!-- Center Pulse / Flame Accent -->
+    <path d="M256 120 L272 170 L256 160 L240 170 Z" fill="#10b981"/>
+    <circle cx="256" cy="100" r="12" fill="#10b981"/>
+  </g>
+
+  <!-- Typography at bottom -->
+  <text x="256" y="410" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="44" fill="#ffffff" text-anchor="middle" letter-spacing="4">FIT<tspan fill="#10b981">CRAFT</tspan></text>
+</svg>

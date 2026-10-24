@@ -1,0 +1,13 @@
+gym-exercises
+gym-gifs-extended
+stretching-gifs
+wrkout-data/exercises
+node_modules
+.git
+.github
+*.log
+create-png-icons.js
+deploy-to-vercel.bat
+build-liftosaur-plans.js
+build-wger-videos.js
+build-wrkout-json.js

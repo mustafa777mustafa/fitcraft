@@ -1,0 +1,20 @@
+# Exercise media & large datasets (served locally via server.js or CDN)
+gym-exercises/
+gym-gifs-extended/
+stretching-gifs/
+wrkout-data/exercises/
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Deployment & Temporary
+.vercel
