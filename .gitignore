@@ -18,3 +18,7 @@ Thumbs.db
 
 # Deployment & Temporary
 .vercel
+
+*.backup
+build-new-index.js
+build-javascript-engine.js
