@@ -22,3 +22,4 @@ Thumbs.db
 *.backup
 build-new-index.js
 build-javascript-engine.js
+engine.js
